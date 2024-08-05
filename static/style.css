@@ -1,0 +1,48 @@
+/* static/css/style.css */
+
+
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+ }
+ 
+ 
+ /* Basic styling */
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+    color: #333; /* Default font color for body text */
+ }
+ 
+ 
+ h1 {
+    color: #1a73e8; /* Change the color of h1 text */
+ }
+ 
+ 
+ p {
+    color: #666; /* Change the color of paragraph text */
+    line-height: 1.6;
+ }
+ 
+ 
+ .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ }
+ 
+ 
+ .footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    color: #888; /* Change the color of footer text */
+ }
+ 

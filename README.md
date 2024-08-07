@@ -25,3 +25,13 @@ Agenda
 4.Template
 5.Static file
 6.Request Response Cycle
+
+**SESSION -3**
+1.Models and Databases
+   Creating models.
+2.Database migrations.
+3.Django Admin Panel.
+4. Customising the admin                  interface.
+5.Registering models with the admin.
+6.Using Django’s ORM (Object-Relational Mapping).
+  1.Django Shell - ORM commands.

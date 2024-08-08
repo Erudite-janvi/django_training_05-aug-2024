@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'login',
     'rest_framework',
     'loginform',
+    'sessionlogin',
 ]
 
 MIDDLEWARE = [
